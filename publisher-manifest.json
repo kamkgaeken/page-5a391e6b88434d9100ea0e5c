@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "66a10a981f02fdb23536e00b",
+  "owner": "kamkgaeken",
+  "repo": "page-5a391e6b88434d9100ea0e5c",
+  "title": "龙猫云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5a391e6b88434d9100ea0e5c",
+      "a": "龙猫云",
+      "b": "",
+      "entity": "龙猫云",
+      "brand": "龙猫云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "ef929e14d612d3866b48e2849d01bf83dffd344219249a1cf4aaa88acbca2bf4",
+      "content": {
+        "keyword1": "龙猫云",
+        "keyword2": "",
+        "primary_entity": "龙猫云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "龙猫云提供专业的VPN网络加速服务，帮助用户实现高效的互联网体验。立即体验加速器客户端下载。",
+          "AI_DESCRIPTION": "龙猫云提供专业的VPN网络加速服务，帮助用户实现高效的互联网体验。立即体验加速器客户端下载。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        body {font-family: system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif; background-color: #FAF8F0; color: #333333; margin: 0; padding: 0; line-height: 1.6;}\n        main {max-width: 1100px; margin: 0 auto; padding: 20px; background: white; border-radius: 8px;}\n        h1 {color: #228B22; text-align: center; font-size: 2.8em; margin-bottom: 10px;}\n        nav {text-align: center; margin: 20px 0;}\n        a {color: #228B22; text-decoration: none; margin: 0 15px;}\n        h2 {color: #2E8B57; margin-top: 30px;}\n        details {margin-bottom: 15px; border: 1px solid #ddd; border-radius: 4px;}\n        summary {padding: 12px; cursor: pointer; font-weight: bold;}\n        p {padding: 0 12px;}\n        footer {margin-top: 40px; text-align: center; color: #666; font-size: 0.9em;}\n        div {margin-bottom: 15px;}\n    </style>\n\n\n    <main>\n        <header>\n            <h1>龙猫云</h1>\n            <nav>\n                <a href=\"#intro\">品牌简介</a>\n                <a href=\"#scenarios\">使用场景</a>\n                <a href=\"#operation\">操作说明</a>\n                <a href=\"#plans\">套餐选择</a>\n                <a href=\"#faq\">常见问题</a>\n            </nav>\n        </header>\n        <div>\n            <div>\n                <h2 id=\"intro\">品牌简介</h2>\n                <p>龙猫云是一款专业的网络加速服务品牌，专注于提供高效的VPN梯子解决方案，帮助用户获得更快的上网体验。</p>\n                <h2 id=\"scenarios\">使用场景</h2>\n                <p>适用于日常上网加速、流媒体平台解锁、在线游戏优化以及多设备同时在线等场景。</p>\n            </div>\n            <div>\n                <h2 id=\"operation\">操作说明</h2>\n                <p>选择合适的套餐后，按照页面提供的指引完成客户端的安装与激活，即可享受加速服务。</p>\n                {{PLANS_HTML}}\n                {{CLIENTS_HTML}}\n                <h2 id=\"faq\">常见问题</h2>\n                <details>\n                    <summary>什么是龙猫云？</summary>\n                    <p>龙猫云提供专业的VPN加速器服务，旨在提升网络连接速度和稳定性。</p>\n                </details>\n                <details>\n                    <summary>如何使用龙猫云？</summary>\n                    <p>通过下载客户端后，按照说明进行配置和连接，即可获得加速效果。</p>\n                </details>\n                <details>\n                    <summary>支持哪些设备？</summary>\n                    <p>支持多种主流设备，包括计算机、手机和平板，确保多设备在线体验。</p>\n                </details>\n                <details>\n                    <summary>如何解锁内容？</summary>\n                    <p>通过选择高质量节点和线路，可以有效解锁受限内容并提升访问速度。</p>\n                </details>\n                <details>\n                    <summary>遇到问题怎么办？</summary>\n                    <p>提供优先级工单支持，团队会尽快为您解决问题。</p>\n                </details>\n            </div>\n        </div>\n        <footer>\n            <p>© 2024 龙猫云 所有权利保留</p>\n            <div>广告</div>\n            <div>友情链接：<a href=\"#\">合作伙伴1</a> <a href=\"#\">合作伙伴2</a></div>\n        </footer>\n    </main>\n\n",
+          "hash": "336a0bb2f78ec09c4404ab7e7a3befb58c6189c831e8e71ab72b6c229a64376c",
+          "seo": {
+            "title": "龙猫云 VPN加速器 - 官网下载与网络加速",
+            "keywords": "龙猫云,vpn加速器,客户端下载,官网,网络加速,梯子",
+            "description": "龙猫云提供专业的VPN网络加速服务，帮助用户实现高效的互联网体验。立即体验加速器客户端下载。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yuxhwid.cn",
+    "host": "a.yuxhwid.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "yuxhwid.cn",
+      "url": "https://yuxhwid.cn/",
+      "label": "天航",
+      "apex": "yuxhwid.cn",
+      "kind": null,
+      "identity": "pmfqkkpsu/page-84da405d563107188dd9dd36"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "4edf7ad100f5c8369cd2424686b433f06dc7b51bd92b3fd9ae1fadb674cf1028",
+    "sitemap.xml": "68e52e472cbe1f2d48602f3b69b46afb26cc95360866bc4ce7e56d209db14f50",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "98e1bf86950f3af8dcd3ba7c0486d88ff17a88530bc68c33c9df1a0a722987d6",
+    "robots.txt": "81b6fa615dc70881b86a39dc996bd11d3d2b41343b2f42d3298f6335357c6f11",
+    "b503db8303ede90d8f21e10399d25cb0.txt": "b62ee47dc77ec7c22ff4ac38b699fbfb80669af8d9ee14f680eb87abf430d041"
+  },
+  "revision": "f53c06a585a039de4cde200c7bb8520f1d579b337eccbb86ce228f909939c797"
+}

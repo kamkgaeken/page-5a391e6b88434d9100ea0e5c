@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://a.yuxhwid.cn/sitemap.xml
